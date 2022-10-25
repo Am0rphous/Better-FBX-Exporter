@@ -1,2 +1,1 @@
-# Better-FBX-Exporter
-A better FBX exporter for Blender
+# A better FBX exporter for Blender
